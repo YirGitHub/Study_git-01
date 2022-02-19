@@ -1,4 +1,4 @@
-var btn = document.getElementById('htn');
-btn.onclick = _ =>{
+var btn = document.getElementById('btn');
+btn.onclick = _=>{
     alert("Ok");
 }
